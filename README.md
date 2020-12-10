@@ -1,4 +1,6 @@
-### Hi there, I am Sarthak Chakraborty 👋
+### Hi there, I am [Sarthak](https://sarthak-chakraborty.github.io/) 👋
+
+[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-chakraborty)](https://github.com/sarthak-chakraborty/github-readme-stats)
 
 <!--
 **sarthak-chakraborty/sarthak-chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
