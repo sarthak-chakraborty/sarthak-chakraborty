@@ -2,9 +2,9 @@
 
 
 
-[Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-chakraborty&&hide=stars&count_private=true&show_icons=true&theme=great-gatsby)
+[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-chakraborty&&hide=stars&count_private=true&show_icons=true&theme=great-gatsby)]()
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-chakraborty&layout=compact&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-chakraborty&layout=compact&theme=great-gatsby)]()
 
 
 <!--
