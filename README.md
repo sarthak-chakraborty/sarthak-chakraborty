@@ -1,10 +1,11 @@
 ### Hi there, I am [Sarthak](https://sarthak-chakraborty.github.io/) 👋
 
-[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-chakraborty&&hide=stars&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/sarthak-chakraborty/github-readme-stats)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-chakraborty&layout=compact&theme=great-gatsby)](https://github.com/sarthak-chakraborty/github-readme-stats)
--->
+
+[Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-chakraborty&&hide=stars&count_private=true&show_icons=true&theme=great-gatsby)
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-chakraborty&layout=compact&theme=great-gatsby)
+
 
 <!--
 **sarthak-chakraborty/sarthak-chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
