@@ -11,12 +11,15 @@ I am Sarthak Chakraborty, a final year computer science 👨‍💻 undergraduat
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=informational) 
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
+
 ![](https://img.shields.io/badge/Packages-tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Packages-keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Packages-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Packages-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Packages-scikit-learn-informational?style=flat&logo=sklearn&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Packages-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=informational) 
+![](https://img.shields.io/badge/Packages-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=informational)
+
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=informational)
