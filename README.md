@@ -6,23 +6,21 @@ I am Sarthak Chakraborty, a final year computer science 👨‍💻 undergraduat
 
 ### Tools and Technologies 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=important)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=important)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=important)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=important)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=important)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=important)
-
-![](https://img.shields.io/badge/Packages-tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=important)
-![](https://img.shields.io/badge/Packages-keras-informational?style=flat&logo=keras&logoColor=white&color=important)
-![](https://img.shields.io/badge/Packages-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=important)
-![](https://img.shields.io/badge/Packages-scikit-learn-informational?style=flat&logo=sklearn&logoColor=white&color=important)
-![](https://img.shields.io/badge/Packages-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=important)
-
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=important)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=important)
-![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=important)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=important)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=informational) 
+![](https://img.shields.io/badge/Packages-tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Packages-keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Packages-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Packages-scikit-learn-informational?style=flat&logo=sklearn&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Packages-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=informational) 
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=informational)
 
 
 ### Github Stats
