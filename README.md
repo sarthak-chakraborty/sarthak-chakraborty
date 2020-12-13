@@ -2,7 +2,7 @@
 
 I am Sarthak Chakraborty, a final year computer science 👨‍💻 undergraduate student at IIT Kharagpur 🏫. I am passionate in the fields of Machine Learning, ML for Systems, System Design, Deep Learning, Statistics and Operating Systems. 
 
-🔭 I’m currently working on my Master Thesis Project on Blockchain.
+🔭 I’m currently working on my Master Thesis Project on Blockchain Interoperability.
 
 ### Tools and Technologies 
 
