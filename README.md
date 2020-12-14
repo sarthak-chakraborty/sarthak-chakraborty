@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 You can find me on [![LinkedIn][1.2]][1], [![Facebook][2.2]][2] or on [![Instagram][3.2]][3].
 
-[1.2]: https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/linkedin.jpg
+[1.2]: https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/linkedin.png
 [2.2]: https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/facebook.png
 [3.2]: https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/insta.png
 
