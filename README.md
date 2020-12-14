@@ -51,12 +51,13 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][1.2]][1], [![Facebook][2.2]][2] or on [![Instagram][3.2]][3].
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/linkedin.png
+[2.2]: https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/facebook.png
+[3.2]: https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/insta.png
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
--->
+[1]: https://www.linkedin.com/in/sarthak-chakraborty-345929132/
+[2]: https://www.facebook.com/sarthak.chakraborty.52/
+[3]: https://www.instagram.com/sarthakchakraborty/
+
