@@ -1,6 +1,6 @@
 # Hi, I am [Sarthak](https://sarthak-chakraborty.github.io/) 👋 
 
-<img src="https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/master/cartoon1607837847869.jpg" width="200px", height="150px">
+<img src="https://raw.githubusercontent.com/sarthak-chakraborty/sarthak-chakraborty/main/cartoon1607837847869.jpg" width="200px", height="150px">
 
 I am Sarthak Chakraborty, a final year computer science 👨‍💻 undergraduate student at IIT Kharagpur 🏫. I am passionate in the fields of Machine Learning, ML for Systems, System Design, Deep Learning, Statistics and Operating Systems. 
 
