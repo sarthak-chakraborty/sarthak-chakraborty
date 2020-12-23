@@ -9,9 +9,10 @@ I am Sarthak Chakraborty, a final year computer science 👨‍💻 undergraduat
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=informational)
 
 ![](https://img.shields.io/badge/Packages-tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Packages-keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
