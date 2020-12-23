@@ -23,6 +23,7 @@ I am Sarthak Chakraborty, a final year computer science 👨‍💻 undergraduat
 
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-HyperledgerFabric-informational?style=flat&logo=hyperledger&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=informational)
 
