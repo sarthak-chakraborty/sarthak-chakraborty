@@ -1,8 +1,6 @@
 # Hi, I am [Sarthak](https://sarthak-chakraborty.github.io/) 👋 
 
-I am Sarthak Chakraborty, a final year computer science 👨‍💻 undergraduate student at IIT Kharagpur 🏫. I am passionate in the fields of Machine Learning, ML for Systems, Distributed Systems, System Design, Deep Learning, Statistics and Operating Systems. 
-
-🔭 I’m currently working on a Project on Blockchain Interoperability.
+I am Sarthak Chakraborty, a Research Associate at the Big Data Experience Lab, Adobe. I am in the Data-Driven Systems, Insights and Experiences group. I graduated from IIT Kharagpur holding a Dual Degree (B.Tech + M.Tech Integrated) from the Department of Computer Science and Engineering. I am interested in the fields of Machine Learning, ML for Systems, Distributed Systems, System Design, Deep Learning and Operating Systems. 
 
 ### Tools and Technologies 
 
