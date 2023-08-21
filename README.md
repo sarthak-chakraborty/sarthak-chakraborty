@@ -1,6 +1,6 @@
 # Hi, I am [Sarthak](https://sarthak-chakraborty.github.io/) 👋 
 
-I am Sarthak Chakraborty, a Research Associate at the Big Data Experience Lab, Adobe. I am in the Data-Driven Systems, Insights and Experiences group. I graduated from IIT Kharagpur holding a Dual Degree (B.Tech + M.Tech Integrated) from the Department of Computer Science and Engineering. I am interested in the fields of Machine Learning, ML for Systems, Distributed Systems, System Design, Deep Learning and Operating Systems. 
+I am Sarthak Chakraborty, pursuing PhD in Computer Science at University of Illinois Urbana-Champaign (UIUC). Prior to this, I was working as a Research Associate 2 at the Adobe Research, Bangalore. I was in the Systems and Insights group. I graduated from IIT Kharagpur holding a Dual Degree (B.Tech + M.Tech Integrated) from the Department of Computer Science and Engineering. I am interested in the fields of ML for Systems, Distributed Systems, System Design, Deep Learning and Operating Systems. 
 
 ### Tools and Technologies 
 
