@@ -25,10 +25,11 @@ I am Sarthak Chakraborty, pursuing PhD in Computer Science at University of Illi
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=informational)
 
-
+<!--
 ### Github Stats
 
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-chakraborty&&hide=stars&count_private=true&show_icons=true&theme=great-gatsby)](https://github-readme-stats.vercel.app/api?username=sarthak-chakraborty&&hide=stars&count_private=true&show_icons=true&theme=great-gatsby)
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-chakraborty&layout=compact&theme=great-gatsby)]()
